@@ -9,10 +9,9 @@ A simple Tip Calculator app built with Jetpack Compose for Android. This app hel
 - Adjust the tip percentage.
 - Real-time update of the total per person.
 
-## Screenshots
+## Demo Video
 
-![Screenshot1](link_to_screenshot1)
-![Screenshot2](link_to_screenshot2)
+[![Watch the video](https://img.youtube.com/vi/lu27zojTZls/hqdefault.jpg)](https://youtube.com/shorts/lu27zojTZls?feature=share)
 
 ## Getting Started
 
